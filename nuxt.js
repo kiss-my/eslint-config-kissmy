@@ -1,9 +1,6 @@
 const nuxt = require('./rules/nuxt')
 
 module.exports = {
-  extends: [
-    require.resolve('./vue.js'),
-  ],
   rules: {
     ...nuxt,
   },
