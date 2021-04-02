@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-kissmy",
+  "version": "1.0.0",
+  "description": "kiss my ESLint base configuration",
+  "main": "index.js",
+  "repository": "https://gitlab.kissmy.dev/kissmy/eslint/eslint-config-kissmy",
+  "author": "Michel Tomas @superbiche",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+} 
